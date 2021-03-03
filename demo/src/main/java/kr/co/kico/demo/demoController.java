@@ -10,7 +10,7 @@ public class demoController {
 	
 	@GetMapping("/test")
 	private void test() {
-		System.out.println("test");
+		System.out.println("test test");
 	}
 	
 }
